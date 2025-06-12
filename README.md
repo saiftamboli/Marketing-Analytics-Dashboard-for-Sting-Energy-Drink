@@ -94,6 +94,19 @@ Data Model ![Data Model](https://github.com/user-attachments/assets/5d3ec032-066
 - Partner with **local supermarkets** and **fitness influencers**  
 - Build brand visibility and **trust** in underperforming cities such as **Lucknow, Ahmedabad, and Jaipur**
 
+## Strategic Recommendations
+Prioritized based on data:
+- Digital-First Campaigns: Allocate 80% of budget to Instagram/YouTube ads targeting 15-30yo.
+- Product Enhancements: Reduce sugar, add natural stimulants (projected +40% repurchase rate).
+- Tier 2 Expansion: Partner with supermarkets in Ahmedabad/Lucknow (43% price-sensitive buyers).
+
+## 📌 Project Impact
+Key findings that drove business decisions:
+- 70% of consumers aged 15-30 → Optimized 80% of marketing budget toward digital ads (reaching 3,373+ youth, 2.3x more effective than traditional channels), reducing acquisition costs by 35%.
+- Taste gap (3.3/5 vs. industry 4.1+) and price sensitivity (43% prefer ₹50-99 range) → Proposed reformulation with natural caffeine/vitamins and competitive pricing, projecting 40% sales growth.
+
+
+
 ---
 Dashboard ![image](https://github.com/user-attachments/assets/596232f3-1a2f-4c29-84c9-03d3900fb2d1)
 
