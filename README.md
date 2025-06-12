@@ -1,7 +1,6 @@
 # 🚀 Sting Energy Drink: Marketing Analytics Dashboard
 
 A data-driven project aimed at analyzing survey responses from 10,000 consumers across 10 Indian cities to help **Sting**, a German beverage company, understand its market position and optimize its product strategy, brand penetration, and marketing effectiveness in India.
----
 
 Live Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiMTNlNzBmNDMtNDYxOC00NDQ0LTk3Y2MtNDJmNmM4MzljOTFjIiwidCI6ImUwYzk0NGU4LWM5N2YtNGUwMS04MWUwLWRkMzZjZTk5YTgwYyJ9)
 
@@ -56,7 +55,7 @@ Based on the findings, strategic recommendations are proposed to empower Sting�
 - Designed a **5-page interactive dashboard** for business users
 
 Data Model ![Data Model](https://github.com/user-attachments/assets/5d3ec032-0668-474c-938e-d82cf3fe6244)
----
+
 
 ## 📈 Dashboard Structure
 
