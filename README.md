@@ -2,7 +2,7 @@
 
 A data-driven project aimed at analyzing survey responses from 10,000 consumers across 10 Indian cities to help **Sting**, a German beverage company, understand its market position and optimize its product strategy, brand penetration, and marketing effectiveness in India.
 
-Live Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiOGIwMWVjMmQtMTAyYi00MzE3LTgxNGQtZTdhMTNmZmZiNzhkIiwidCI6IjY2MjQ1OWI0LTQ3YWUtNDc0Yi05ODkyLTczZDhhMDRjODRmMSJ9)
+Live Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiNGI5ZWY1ZmQtMGZmYi00NmM4LWIwYTItZTU0MGEzODJmNTQ4IiwidCI6IjZlYTIxZGYzLThhYTctNDk5ZC05N2Y2LWQ1OGQxODA2MTM5MSJ9)
 
 ## 📊 Project Overview
 
